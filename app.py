@@ -55,5 +55,3 @@ def get_ips(d):
 @api.output(GetAboutOut)
 def get_about():
     return {'about': ip_search.get_version()}
-
-app = api
