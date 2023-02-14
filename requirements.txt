@@ -15,5 +15,5 @@ packaging==22.0
 pyparsing==3.0.9
 six==1.16.0
 webargs==8.2.0
-Werkzeug==2.2.2
+Werkzeug==2.2.3
 zipp==3.12.1
